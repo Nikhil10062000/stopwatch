@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.contain{
+    text-align: center;
+    background-color: black;
+    
+}
+.header{
+    color: aquamarine;
+    font-size: 700%;
+}
+.header:hover , .screen:hover{
+    color: aqua;
+}
+/* .screen:hover{
+    colo
+} */
+.screen{
+    color: greenyellow;
+    padding-top: 80px;
+    font-size: 400%;
+}
+/* button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    
+    
+} */
+button {
+    font-size: 16px;
+    background-color: grey;
+    color: black;
+    border-radius: 8px;
+    padding: 6px 12px;
+    
+  }
+  button:hover {
+    background-color: royalblue;
+  }
+  
+  button:focus {
+    outline: 0;
+  }
